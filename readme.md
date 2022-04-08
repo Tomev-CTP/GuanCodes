@@ -1,6 +1,6 @@
 # Guan Codes
 
-A simple package for 
+A simple package for generating Gray and Guan codes.
 
 ## Summary
 
@@ -59,3 +59,8 @@ I'll use [SemVer](http://semver.org/) for versioning and try to keep track of th
 
 This project is licensed under the [Apache License, v.2.0](LICENSE.md).
 See the [LICENSE.md](LICENSE.md) file for details.
+
+## Acknowledgments
+
+  - [CTP PAS](http://www.cft.edu.pl/new/public/pl) - This project was done
+during my Ph.D. at CTP PAS.
