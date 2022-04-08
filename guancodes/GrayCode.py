@@ -11,9 +11,11 @@ from typing import List
 
 def get_gray_code_update_indices(n: int) -> List[int]:
     """
-        Computes and returns the update indices for Gray code iteration.
-        :param n: The length of the code.
-        :return: The list of indices to bit-flip during iteration.
+    Computes and returns the update indices for Gray code iteration.
+
+    :param n:   The length of the code.
+
+    :return:    The list of indices to bit-flip during iteration.
     """
     if n <= 0:
         return []
